@@ -1,4 +1,4 @@
-# Gray_fornt
+# Gray_font
 
 Python get gray font
 
